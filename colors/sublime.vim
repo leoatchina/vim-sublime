@@ -6,7 +6,7 @@
 
 " Initialisation
 
-if !has('gui_running') && &t_Co < 256
+if &t_Co < 256
   finish
 endif
 
