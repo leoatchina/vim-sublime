@@ -1,7 +1,7 @@
 " File:       sublime.vim
-" Maintainer: skywind3000
-" URL:        https://github.com/skywind3000/vim/blob/master/colors/sublime.vim
-" Originate:  https://github.com/erichdongubler/vim-sublime-monokai
+" Maintainer: leoatchina
+" URL:        https://github.com/leoatchina/vim-sublime.git
+" Originate:  https://github.com/skywind3000/vim/blob/master/colors/sublime.vim
 " License:    MIT
 
 " Initialisation
